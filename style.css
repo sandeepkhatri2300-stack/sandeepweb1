@@ -2,7 +2,7 @@
     text-align: center;
 
     /*background-image: url ("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnUVdYoo_BG8u0MfdXGxKjjdCIxILMVDzJJw&s");*/
-    background-image: url("./htdocs/image/spa.jpg");
+    background-image: url("./htdocs/img/spa.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
